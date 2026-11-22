@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TDB Personal AI Assistant</string>
+    <string name="accessibility_service_description">TDB Personal AI Accessibility Helper: Executes user-initiated voice commands for scrolling, back/home navigation, and visible YouTube playback actions. Never collects passwords or private screen data.</string>
+    <string name="cd_companion_portrait">TDB AI companion portrait</string>
+    <string name="cd_memories_illustration">TDB recollections illustration</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_voice_dictation">Voice dictation</string>
+    <string name="cd_attach_image">Attach photo</string>
+    <string name="cd_read_aloud">Read last reply aloud</string>
+    <string name="cd_stop_action">Stop speaking or generating</string>
+</resources>

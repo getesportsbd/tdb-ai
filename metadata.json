@@ -1,0 +1,8 @@
+{
+  "name": "TDB Personal AI",
+  "description": "TDB Personal AI Assistant v3.0 — Bangla-first Android AI assistant by Deep Barmon with animated AI Orb, 3D-styled companion, wake-word foreground service, Accessibility & YouTube automation, WhatsApp/SMS/Call confirmation, Camera2 Vision, Usage Monitor, Productivity Brain, and searchable Long-Term Memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
